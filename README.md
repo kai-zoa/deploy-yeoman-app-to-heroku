@@ -36,6 +36,7 @@ $ grunt serve
 ```
 
 やったー
+![Screen Shot 2015-01-07 at 1.02.29 AM.png](https://qiita-image-store.s3.amazonaws.com/0/27339/f0dfaec6-2023-790c-4804-4641f52874f4.png)
 
 一旦Control + C で止めます。
 
